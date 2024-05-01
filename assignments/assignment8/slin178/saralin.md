@@ -1,0 +1,9 @@
+# Assignment 8
+## Sara Lin
+The last section I was able to run is the Deploy Model Service section. Throughout this assignment, the main challenges I faced were that many of the Mac commands don't work or use a different syntax on Windows. For example, the shell command under the Download Model step did not work on Windows. To resolve this, I had to find work-arounds such as through using my laptop's UI. I also ran into issues with Podman as well and had to delete and reinstall it.
+I also faced issues with my laptop's old operating system and outdated packages. To overcome this, I had to update my systems and pip install multiple packages. Another issue I ran into was deploying the LLM. I was able to run the command for it but my laptop crashed before it was finished executing. After restarting my terminal and re-executing the command, I ran into issues with running the Streamlit application.
+Although I wasn't able to run the streamlit application, for my audio, I chose a snippet of a song. I chose this audio to see if Streamlit would be able to detect the lyrics even with music playing in the background. I was also able to convert the audio file into a wav file in the Terminal.
+![terminal-server](https://github.com/slin178/spark-seprep/assets/133622841/d49864dd-f698-4606-98d0-dcad53656565)
+![terminal-error](https://github.com/slin178/spark-seprep/assets/133622841/98f5c188-a15a-4cef-aa2b-2797aee9c4b1)
+
+A suggestion I have for the process is possibly compiling a collaborative Google Doc of equivalent Terminal commands for Windows and Mac systems that have different syntaxes. It could also document common problems students ran into and troubleshooting tips and solutions. This could help give students a centralized location for finding solutions and hopefully help reduce the instructors' workloads for troubleshooting the same issues.
